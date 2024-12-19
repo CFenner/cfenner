@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+![Perfil GitHub](https://github-readme-stats.vercel.app/api?username=cfenner&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfenner&layout=compact&theme=radical)
+
+## Sponsoring💰
+
+If you like what I do feel free to [*buy me a coffee*](https://buymeacoffee.com/hafenstrand) or use [PayPal](https://paypal.me/ChristopherFenner) sponsor my work.
+
 <!--
 **CFenner/cfenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
